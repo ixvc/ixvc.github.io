@@ -1,5 +1,4 @@
-Mage has some books he want to read. I stores them here. I can't buy them all right now, but will buy them slowly.
-The books are as under:
+A list of books, I keep here as a reference. I don't want all of these books, and very much need some from the one I listed. 
 
 
     Structure and Interpretation of Computer Programs.
@@ -37,4 +36,4 @@ The books are as under:
     Foundations for Programming Languages
 _
 
-I'll keep adding books to the list, in case I want them. The one with (*) has already been bought :) (*). It's important to note that, some of the books may not be upto the quality. I have checked most of them, but some bad books may have crept in.
+I'll keep adding books to the list, in case I want them. The one with (*) has already been bought.
